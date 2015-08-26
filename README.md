@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chat
 
 To start your Phoenix app:
@@ -17,3 +18,7 @@ Ready to run in production? Please [check our deployment guides](http://www.phoe
   * Docs: http://hexdocs.pm/phoenix
   * Mailing list: http://groups.google.com/group/phoenix-talk
   * Source: https://github.com/phoenixframework/phoenix
+=======
+# chat_phoenix
+Chat ejemplo basado en el enlace de http://www.phoenixframework.org/docs/channels
+>>>>>>> e417c7fc4a693ca9606e6e52aace1e7c0552b66f
